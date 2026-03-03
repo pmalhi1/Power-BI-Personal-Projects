@@ -1,0 +1,1 @@
+Urban Threads_D2C Fashion Brand_Order & Returns Analytics. It is not really a dashboard but an assessment from purple merit. This dashboard is not a perfect dashboard, as it might contain some errors and mistakes.
