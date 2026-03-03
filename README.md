@@ -1,2 +1,2 @@
-# Power-BI-Personal-Projects
-Power BI Personal Projects
+# Power-BI-Projects
+Power BI Projects
